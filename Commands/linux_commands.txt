@@ -1,1 +1,24 @@
+# Linux Commands Practice
 
+# Navigation
+pwd
+ls
+cd Desktop
+cd ..
+
+# File Handling
+mkdir lab_test
+cd lab_test
+touch file1.txt
+cp file1.txt file2.txt
+mv file2.txt renamed.txt
+
+# Delete File
+rm renamed.txt
+
+# Permissions
+chmod +x file1.txt
+ls -l
+
+# Package Management
+sudo apt update
