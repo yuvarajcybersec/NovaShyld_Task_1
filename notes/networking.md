@@ -38,3 +38,10 @@ Understanding networking helps in:
 - Identifying targets
 - Scanning systems
 - Exploiting vulnerabilities
+
+## Practical Commands Used
+
+- ip a → Displays IP address
+- ping → Checks connectivity
+- traceroute → Shows network path
+- ss -tuln → Displays open ports
