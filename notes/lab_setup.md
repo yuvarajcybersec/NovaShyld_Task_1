@@ -86,3 +86,15 @@ Basic Linux commands were executed to understand navigation, file handling, perm
 
 ### Package Update
 ![Package Update](../Screenshots/linux_package_update.png)
+
+---
+
+## 8. Nmap Scanning
+
+Nmap was used to identify open ports and services on the target machine.
+
+### Basic Scan (-sS)
+![Nmap Basic](../Screenshots/nmap_basic_scan.png)
+
+### Service Version Detection (-sV)
+![Nmap Version](../Screenshots/nmap_version_scan.png)
