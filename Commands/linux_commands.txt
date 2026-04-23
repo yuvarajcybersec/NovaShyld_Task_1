@@ -22,3 +22,10 @@ ls -l
 
 # Package Management
 sudo apt update
+
+# Networking Commands
+
+ip a
+ping <target-ip>
+traceroute <target-ip>
+ss -tuln
