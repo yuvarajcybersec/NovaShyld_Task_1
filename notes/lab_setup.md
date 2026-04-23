@@ -23,6 +23,23 @@ Metasploitable2 was used as the vulnerable target machine for testing purposes.
 
 ---
 
+## 7. Networking Commands
+
+Basic networking commands were executed to understand connectivity and system network details.
+
+### IP Address (Kali Linux)
+![IP Address](../Screenshots/network_ip.png)
+
+### Ping Test
+![Ping](../Screenshots/ping_success.png)
+
+### Traceroute
+![Traceroute](../Screenshots/traceroute.png)
+
+### Open Ports (ss command)
+![Ports](../Screenshots/ss_ports.png)
+---
+
 ## 3. Network Configuration
 
 Both virtual machines were configured using a Host-Only Adapter to ensure isolated communication.
