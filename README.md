@@ -15,3 +15,6 @@ This repository contains my work for Task 1 of the NovaShyld Ethical Hacking Int
 - Kali Linux
 - VirtualBox
 - Nmap
+
+## Lab Setup
+Detailed lab setup documentation is available in the Notes folder.
