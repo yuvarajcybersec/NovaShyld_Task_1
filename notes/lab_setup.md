@@ -51,3 +51,21 @@ A successful ping test was performed from Kali Linux to the target machine to ve
 ## Conclusion
 
 The lab environment was successfully set up with proper network configuration, and both machines were able to communicate with each other.
+
+---
+
+## 6. Linux Commands Practice
+
+Basic Linux commands were executed to understand navigation, file handling, permissions, and package management.
+
+### Navigation Commands
+![Navigation](../Screenshots/linux_navigation.png)
+
+### File Operations
+![File Operations](../Screenshots/linux_file_operations.png)
+
+### Permissions
+![Permissions](../Screenshots/linux_permissions.png)
+
+### Package Update
+![Package Update](../Screenshots/linux_package_update.png)
